@@ -12,7 +12,7 @@ public class WeatherApp {
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
     public static void main(String[] args) {
-        String city = "Dehradun"; // Replace with the desired city
+        String city = "Jaipur";
         String apiUrl = BASE_URL + "?q=" + city + "&appid=" + API_KEY + "&units=metric";
 
         try {
