@@ -26,3 +26,7 @@ To handle potential issues, the program includes **basic error handling** using 
 Several enhancements could be made to **improve functionality**. One improvement would be to **allow user input**, enabling users to specify a city dynamically instead of relying on a hardcoded value. Additionally, the program could implement **better error handling** by checking for **invalid responses** or providing alternative suggestions when a city is not found. Furthermore, additional weather parameters, such as **wind speed, atmospheric pressure, and sunrise/sunset times**, could be integrated to provide a **more comprehensive** weather report.  
 
 Overall, this program effectively demonstrates **real-time API integration**, **JSON data processing**, and **handling HTTP requests in Java**. While it serves as a strong foundation, implementing additional **features and optimizations** could make it even more robust and user-friendly.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2a36a85b-39f4-4e71-bef6-e207d2ad6cc0)
