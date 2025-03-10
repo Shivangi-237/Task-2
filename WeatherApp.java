@@ -12,7 +12,7 @@ public class WeatherApp {
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/weather";
 
     public static void main(String[] args) {
-        String city = "Jaipur";
+        String city = "Jaipur"; // Updated city name
         String apiUrl = BASE_URL + "?q=" + city + "&appid=" + API_KEY + "&units=metric";
 
         try {
@@ -65,5 +65,5 @@ public class WeatherApp {
         System.out.println("Humidity: " + humidity + "%");
         System.out.println("Description: " + weatherDescription);
         System.out.println("---------------------------------");
-    }
+    }
 }
